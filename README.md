@@ -1,2 +1,2 @@
 # ArduinoStarter
-simple Arduino projects
+Simple Arduino projects based on Arduino Projects Book
